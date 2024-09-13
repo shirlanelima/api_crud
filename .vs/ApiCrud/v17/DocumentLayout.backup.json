@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ApiCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|c:\\apicrud\\estudantes\\estudantesrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|solutionrelative:estudantes\\estudantesrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|c:\\apicrud\\estudantes\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|solutionrelative:estudantes\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|c:\\apicrud\\estudantes\\estudantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|solutionrelative:estudantes\\estudantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|c:\\apicrud\\estudantes\\addestudanterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|solutionrelative:estudantes\\addestudanterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|c:\\apicrud\\estudantes\\updateestudanterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|solutionrelative:estudantes\\updateestudanterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|c:\\apicrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FABAA9-4073-41A3-AB42-D8D54FD17BDD}|ApiCrud.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudanteDto.cs",
+              "DocumentMoniker": "C:\\ApiCrud\\Estudantes\\EstudanteDto.cs",
+              "RelativeDocumentMoniker": "Estudantes\\EstudanteDto.cs",
+              "ToolTip": "C:\\ApiCrud\\Estudantes\\EstudanteDto.cs",
+              "RelativeToolTip": "Estudantes\\EstudanteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:09:19.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudantesRotas.cs",
+              "DocumentMoniker": "C:\\ApiCrud\\Estudantes\\EstudantesRotas.cs",
+              "RelativeDocumentMoniker": "Estudantes\\EstudantesRotas.cs",
+              "ToolTip": "C:\\ApiCrud\\Estudantes\\EstudantesRotas.cs",
+              "RelativeToolTip": "Estudantes\\EstudantesRotas.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwEcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:36:45.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\ApiCrud\\Estudantes\\Estudante.cs",
+              "RelativeDocumentMoniker": "Estudantes\\Estudante.cs",
+              "ToolTip": "C:\\ApiCrud\\Estudantes\\Estudante.cs",
+              "RelativeToolTip": "Estudantes\\Estudante.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:20:43.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateEstudanteRequest.cs",
+              "DocumentMoniker": "C:\\ApiCrud\\Estudantes\\UpdateEstudanteRequest.cs",
+              "RelativeDocumentMoniker": "Estudantes\\UpdateEstudanteRequest.cs",
+              "ToolTip": "C:\\ApiCrud\\Estudantes\\UpdateEstudanteRequest.cs",
+              "RelativeToolTip": "Estudantes\\UpdateEstudanteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:37:53.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\ApiCrud\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\ApiCrud\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:35:15.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEstudanteRequest.cs",
+              "DocumentMoniker": "C:\\ApiCrud\\Estudantes\\AddEstudanteRequest.cs",
+              "RelativeDocumentMoniker": "Estudantes\\AddEstudanteRequest.cs",
+              "ToolTip": "C:\\ApiCrud\\Estudantes\\AddEstudanteRequest.cs",
+              "RelativeToolTip": "Estudantes\\AddEstudanteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:35:39.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
